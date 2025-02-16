@@ -4,7 +4,7 @@
 
 A PyTorch implementation of a custom SSDLite (Single Shot MultiBox Detector Lite) model for efficient object detection, built on top of MobileNetV3 backbone. This implementation is optimized for resource-constrained environments while maintaining good detection performance.
 
-![SSD Architecture](https://miro.medium.com/max/1400/1*0pMP3aHvnGuko54VJlqm2Q.png)
+![SSD Architecture](https://iq.opengenus.org/ssd-mobilenet-v1-architecture/)
 
 ## Features
 
