@@ -74,7 +74,7 @@ The model consists of several key components:
 To train the model:
 
 ```python
-python main.py
+python Model.py
 ```
 
 Default training parameters:
@@ -122,11 +122,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @misc{custom-ssdlite-detection,
-  author = {Your Name},
+  author = {Kunwar Abhuday Singh},
   title = {Custom SSDLite Object Detection},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/custom-ssdlite-detection}
+  url = {https://github.com/ZaGrayWolf/MobileNetv3_SSD}
 }
 ```
 
